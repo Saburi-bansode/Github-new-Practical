@@ -8,3 +8,7 @@ git push -u origin master
 git remote -v
 git remote set-url origin https://github.com/Saburi-bansode/Github-new-Practical.git
 history
+git status
+git add commands.txt
+git commit -m "Added commands.txt file"
+git push -u origin  master 
