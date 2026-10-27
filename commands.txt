@@ -1,0 +1,10 @@
+git init 
+git add .
+git commit "Added Testing file"
+git commit -m "Added Testing file"
+git status
+git remote add origin https://github.com/Saburi-bansode/Github-new-Practical.git
+git push -u origin master
+git remote -v
+git remote set-url origin https://github.com/Saburi-bansode/Github-new-Practical.git
+history
